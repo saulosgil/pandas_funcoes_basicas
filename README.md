@@ -1,6 +1,7 @@
 # Pandas -  A potente biblioteca para análise de dados do Python
  - ### Explorando funções básicas 
 
+![python.jpg]
 
 Pandas é uma biblioteca de software de código aberto amplamente utilizada na linguagem de programação Python para manipulação e análise de dados. Foi criada por Wes McKinney em 2008 enquanto trabalhava na AQR Capital Management e desde então se tornou uma das ferramentas mais populares para análise de dados em Python.
 
